@@ -14,9 +14,13 @@ After 20+ years optimizing workflows in retail operations, I'm transitioning int
 
 **Tech Stack:** React, TypeScript, Google AI Studio
 
-**Status:** Code complete, deployment in progress
+**Status:** Live and functional
+
+🔗 [Try the Live Demo](https://frostoptima.vercel.app/) | [View Code](https://github.com/cochisestarks-web/retail-profit-optimizer)
+
 
 [View Repository](https://github.com/cochisestarks-web/retail-profit-optimizer)
+
 
 ---
 
