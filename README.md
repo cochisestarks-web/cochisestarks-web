@@ -31,6 +31,12 @@ After 20+ years optimizing workflows in retail operations, I'm transitioning int
 
 **Status:** Live and functional
 
+ ## Screenshots
+   
+   ![PaycheckGPS Interface](PaycheckGps1.png)
+   
+   ![PaycheckGPS Results](PaycheckGps2.png)
+
 🔗 [Try the Live Demo](https://paycheckgps.netlify.app/) | [View Code](https://github.com/cochisestarks-web/paycheckgps)
 
 [View Repository](https://github.com/cochisestarks-web/paycheckgps)
