@@ -35,6 +35,16 @@ After 20+ years optimizing workflows in retail operations, I'm transitioning int
 
 [View Repository](https://github.com/cochisestarks-web/paycheckgps)
 
+### Shot Planner - Cinematic Storyboard Tool
+**Problem:** Filmmakers and content creators need a fast way to plan shot sequences without heavyweight software or complex setups.
+
+**Solution:** A lightweight storyboard tool for planning cinematic shot lists with automatic local storage persistence. Add shot types, descriptions, and director's notes — data saves automatically and survives browser restarts.
+
+**Tech Stack:** Vanilla JavaScript, Tailwind CSS, localStorage  
+**Status:** Live and functional
+
+🔗 [Try the Live Demo](https://shotplannerdl.netlify.app/) | [View Code](https://github.com/cochisestarks-web/shot-planner)
+
 ---
 ---
 
