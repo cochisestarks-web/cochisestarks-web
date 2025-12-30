@@ -1,71 +1,57 @@
-# Derek Loa
-**Retail Operations Specialist → AI/LLM Systems | Building Human-Centered Solutions**
+Derek Loa - Full-Stack Developer
+Ma ka hana ka ʻike - In doing, one learns
+I'm a full-stack developer with 20+ years of retail operations experience, now building web applications that solve real-world problems across diverse domains: operations optimization, economic justice, creative production, and cultural education.
+🚀 Portfolio Projects
+1️⃣ FrostOptima
+Retail Operations Optimization Tool
 
-After 20+ years optimizing workflows in retail operations, I'm transitioning into AI/LLM development with a focus on prompt engineering, alignment, and practical applications that solve real business problems.
+React/TypeScript application for frost production tracking and demand forecasting
+Real-time inventory management and multi-location coordination
+Tech: React, TypeScript, Recharts, Tailwind CSS
+🔗 Live Demo | Repository
 
----
+2️⃣ PaycheckGPS
+Economic Justice Calculator
 
-## 🚀 Portfolio Projects
+Interactive tool visualizing wage gaps and economic inequality
+Real-time calculations with geographic cost-of-living adjustments
+Tech: Vanilla JavaScript, D3.js, Tailwind CSS
+🔗 Live Demo | Repository
 
-### FrostOptima - Retail Freezer Profit Optimization
-**Problem:** Grocery stores lose significant revenue by placing low-margin products in premium freezer endcap positions, while high-margin items sit in less visible locations.
+3️⃣ Shot Planner
+Cinematic Production Scheduler
 
-**Solution:** An AI-powered tool that analyzes product data (cost, margin, sales velocity) and generates optimal endcap configurations that maximize profitability while maintaining product diversity and customer appeal.
+Drag-and-drop shot planning for film and video production
+Timeline visualization and resource management
+Tech: React, JavaScript, Tailwind CSS
+🔗 Live Demo | Repository
 
-**Tech Stack:** React, TypeScript, Google AI Studio
+4️⃣ ʻŌlelo Hawaiʻi Daily Practice
+Cultural Learning Tool
 
-**Status:** Live and functional
+Teaches Hawaiian values through daily practice and cultural context
+22 Hawaiian values with pronunciation, context, and practical applications
+Tech: Vanilla JavaScript, LocalStorage API, Tailwind CSS
+🔗 Live Demo | Repository
 
-🔗 [Try the Live Demo](https://frostoptima.vercel.app/) | [View Code](https://github.com/cochisestarks-web/retail-profit-optimizer)
+💻 Tech Stack
+Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3
+Frameworks/Libraries: React, Tailwind CSS, D3.js, Recharts
+Tools: Git, GitHub, Netlify, VS Code
+Design: Responsive UI/UX, Accessibility-first design
+Specialties: Data visualization, LocalStorage/state management, cultural competency
+🎯 What I Bring
 
-
-[View Repository](https://github.com/cochisestarks-web/retail-profit-optimizer)
-
-### PaycheckGPS - Wage Gap Calculator
-
-**Problem:** Workers lack visibility into how inflation and market competition erode their purchasing power, making wage negotiations feel like guesswork.
-
-**Solution:** A data-driven calculator that compares current wages against inflation-adjusted benchmarks and real market rates, showing the exact annual financial impact of wage gaps.
-
-**Tech Stack:** Vanilla JavaScript, Tailwind CSS, BLS labor market data
-
-**Status:** Live and functional
-
-🔗 [Try the Live Demo](https://paycheckgps.netlify.app/) | [View Code](https://github.com/cochisestarks-web/paycheckgps)
-
-[View Repository](https://github.com/cochisestarks-web/paycheckgps)
-
-### Shot Planner - Cinematic Storyboard Tool
-**Problem:** Filmmakers and content creators need a fast way to plan shot sequences without heavyweight software or complex setups.
-
-**Solution:** A lightweight storyboard tool for planning cinematic shot lists with automatic local storage persistence. Add shot types, descriptions, and director's notes — data saves automatically and survives browser restarts.
-
-**Tech Stack:** Vanilla JavaScript, Tailwind CSS, localStorage  
-**Status:** Live and functional
-
-🔗 [Try the Live Demo](https://shotplannerdl.netlify.app/) | [View Code](https://github.com/cochisestarks-web/shot-planner)
-
----
----
-
-## 🎯 What I'm Building Toward
-
-I'm pursuing roles in:
-- Prompt Engineering & Optimization
-- AI Safety & Alignment 
-- LLM Evaluation & Review
-- Human-AI Interaction Design
-
-My approach combines deep operational experience with systems thinking - I understand how to identify real-world inefficiencies and build AI solutions that actually solve them.
-
----
+Domain Expertise: 20+ years in retail operations, translating real-world problems into technical solutions
+User-Centered Design: Building apps that solve actual pain points, not just technical demonstrations
+Cultural Awareness: Creating respectful, meaningful applications across diverse contexts
+Full Project Lifecycle: From concept and design through deployment and documentation
 
 ## 📫 Let's Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/derek-loa-295646317/
 - **Email:** starksukraine@gmail.com
 - **Location:** Georgia
-
 ---
 
 *Currently seeking opportunities in AI review, prompt engineering, and alignment work. Open to contract, part-time, or full-time roles.*
