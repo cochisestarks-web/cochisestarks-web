@@ -5,6 +5,25 @@ Technical Research and AI Safety
 
 I'm a full-stack developer with 20+ years of retail operations experience, now building web applications that solve real-world problems across diverse domains: operations optimization, economic justice, creative production, and cultural education.
 
+---
+
+## 🔬 AI Safety Research
+
+### [Context Poisoning: Inverse Adversarial Vulnerabilities in LLM Safety Training](https://github.com/cochisestarks-web/AI-Red-Teaming-Context-Poisoning)
+**Systematic Behavioral Analysis of Claude 4.5**
+
+48-hour behavioral audit documenting how adversarial conversational framing overrides fact-checking protocols in frontier LLMs.
+
+**Key Finding:** Safety classifiers trigger BEFORE verification tools, creating inverse vulnerability where legitimate information presented in "suspicious" contexts is rejected without fact-checking.
+
+- 📊 [Full Methodology](https://github.com/cochisestarks-web/AI-Red-Teaming-Context-Poisoning/blob/main/METHODOLOGY.md) - 4-phase testing protocol with failure mechanism analysis
+- 🔍 [Architectural Validation](https://github.com/cochisestarks-web/AI-Red-Teaming-Context-Poisoning/blob/main/VALIDATION.md) - Cross-reference with leaked Claude system prompt
+- 📝 [LinkedIn Discussion](https://www.linkedin.com/posts/derek-loa-295646317_airesearch-llmsafety-aialignment-activity-7413327312005398528-G0cB) - Research announcement and community engagement
+
+**Research Impact:** Reverse-engineered architectural design decisions from observed behavior, validated against source documentation. Demonstrates systematic LLM evaluation methodology applicable to AI safety, red teaming, and prompt engineering roles.
+
+---
+
 ## 🚀 Portfolio Projects
 
 ### 1️⃣ [FrostOptima](https://github.com/cochisestarks-web/frostoptima-production-tracker)
@@ -44,10 +63,11 @@ I'm a full-stack developer with 20+ years of retail operations experience, now b
 **AI/ML:** RAG Architecture, Vector Embeddings, Semantic Search, Cosine Similarity  
 **Tools:** Git, GitHub, Netlify, VS Code  
 **Design:** Responsive UI/UX, Accessibility-first design  
-**Specialties:** Data visualization, RAG implementation, LocalStorage/state management, cultural competency
+**Specialties:** Data visualization, RAG implementation, LLM evaluation & red teaming, LocalStorage/state management, cultural competency
 
 ## 🎯 What I Bring
 
+- **AI Safety Research**: Systematic LLM behavioral analysis, failure mode identification, architectural reverse-engineering
 - **AI Integration**: Implementing RAG architecture, semantic search, and understanding AI limitations in sensitive domains
 - **Domain Expertise**: 20+ years in retail operations, translating real-world problems into technical solutions
 - **User-Centered Design**: Building apps that solve actual pain points, not just technical demonstrations
@@ -75,6 +95,4 @@ This approach demonstrates:
 - **LinkedIn:** https://www.linkedin.com/in/derek-loa-295646317/
 - **Email:** starksukraine@gmail.com
 - **Location:** Georgia
----
-
 *Currently seeking frontend developer or full-stack developer opportunities where I can apply my technical skills and domain expertise to build meaningful applications.*
