@@ -1,4 +1,5 @@
 # Derek Loa - Full-Stack Developer
+  #Technical Research and AI Safety
 
 **Ma ka hana ka ʻike** - *In doing, one learns*
 
