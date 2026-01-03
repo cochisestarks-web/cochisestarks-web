@@ -95,4 +95,5 @@ This approach demonstrates:
 - **LinkedIn:** https://www.linkedin.com/in/derek-loa-295646317/
 - **Email:** starksukraine@gmail.com
 - **Location:** Georgia
+  
 *Currently seeking frontend developer or full-stack developer opportunities where I can apply my technical skills and domain expertise to build meaningful applications.*
